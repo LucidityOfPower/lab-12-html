@@ -1,0 +1,66 @@
+#intro
+{
+border-style: solid;
+border-width: 1px;
+border-color: black;
+}
+.spotlight
+{
+background-color: #FEFE22;
+}
+
+.LinkText
+{
+text-transform: lowercase;
+}
+
+a:hover
+{
+text-transform: uppercase;
+}
+
+.LinkText
+{
+
+}
+
+P, H2
+{
+color: #008800;
+font-size: 18px;
+text-decoration: line-through;
+}
+
+H1
+{
+color: #00F000;
+text-transform: uppercase;
+background-color: #EEEEEE;
+margin: 20px;
+padding: 40px;
+border-style: dashed;
+border-width: 5px;
+border-color: red;
+}
+
+H2
+{
+//color: #666666;
+//text-decoration: underline;
+}
+
+H3
+{
+color: #990066;
+}
+
+Body
+{
+font-family: sans-serif;
+background: white url(http://d2a2wjuuf1c30f.cloudfront.net/product_photos/16462232/drinking_20away_20my_20sorrows_2011x14_original.jpg);
+}
+
+td, li, em, strong
+{
+color: #00AAAA;
+}
